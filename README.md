@@ -1,7 +1,7 @@
 # 417 学术研讨会
 
 ## 2023年
-- ### [2023-04-18 日常学术讨论](Note/2023-04-19.md)：交流讨论了Graphormer、ProtoGNN、Chain of Thought和Prompt Learning等工作
+- ### [2023-04-19 日常学术讨论](Note/2023-04-19.md)：交流讨论了Graphormer、ProtoGNN、Chain of Thought和Prompt Learning等工作
 - ### [2023-04-12 CNN、RNN和激活函数专题汇报](Note/2023-04-12.md)：进行卷积神经网络、循环神经网络和激活函数专题汇报，介绍发展历史、经典工作和未来展望
 
 ## 2022年
